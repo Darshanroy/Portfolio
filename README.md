@@ -1,76 +1,127 @@
 # Darshan Kumar
 
-## CONTACT
-Bengaluru, Karnataka, India, 560002  
-Email: Darshankumarr03@gmail.com  
-LinkedIn: [Darshan Kumar](https://www.linkedin.com/in/darshankumarr/)  
-Phone: +91 8453036381  
+Bengaluru, Karnataka • Darshankumarr03@gmail.com • +91 8453036381
 
-## EDUCATION
-1. Bachelors in Data Science | Indian Institute of Technology (IITM), Chennai, 600082
-2. BSc in Computer Science | Tumukur University, Tumukuru, 572101  
+## Education
 
-## PROFESSIONAL EXPERIENCE
+- **Indian Institute of Technology Madras, Chennai**
+  - BS/BSc Degree in Data Science and its Applications
+
+- **Tumkuru University, Tumkuru**
+  - Foundational Degree in BSc Computer Science
+
+## Skills
+
+- **Programming Languages and Libraries:**
+  - Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit Learn)
+  
+- **Frameworks:**
+  - Flask, TensorFlow, PyTorch
+  
+- **Machine Learning Algorithms:**
+  - Linear Models, Tree-based Models, Clustering Models, Association
+  
+- **Deep Learning:**
+  - Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network
+  
+- **Natural Language Processing:**
+  - Attention-based Models, Transfer Learning, Generative Pre-trained Models
+  
+- **Applications:**
+  - Anomaly Detection, Time Series Analysis
+  
+- **ML Operations:**
+  - ML Flow, Dags Hub, GIT/GIT HUB, DVC (Data Version Control), Dockers
+
+## Projects
+
+### InfoHarvest Project
+
+#### Objective
+
+Developed as a cutting-edge tool, InfoHarvest transforms PDF research papers into actionable insights. The project's primary goal is to seamlessly extract and analyze data, empowering users to uncover valuable information, trends, and knowledge from academic literature effortlessly.
+
+#### Features
+
+- PDF Transformation: Efficiently processes PDF research papers, extracting key data for analysis.
+- Data Analysis: Provides robust data analysis capabilities, enabling users to derive meaningful insights from academic content.
+- Actionable Insights: Empowers users to transform extracted data into actionable insights, facilitating informed decision-making.
+- User-Friendly Interface: Includes an intuitive interface, making it easy for users to navigate and utilize the tool effectively.
+
+#### Usage Example
+
+Users can leverage InfoHarvest by loading a PDF research paper, extracting data, and performing analysis using the provided Python module. The tool is designed to be user-friendly, allowing individuals to easily transform academic literature into valuable insights.
+
 ### Interview.AI
-**Project Objective:**  
-Revolutionizing the interview process through NLP-driven interviews and computer vision monitoring. Providing tools for interview preparation using cutting-edge AI technology.
 
-**Key Features:**  
-- NLP driven Interview Conduct
-- Computer Vision Monitoring
-- ATS-friendly Resume Builder
-- Comprehensive Preparation Materials
-- Performance Analytics
-- Interview Query Chat-bot
+#### Objective
 
-**Technological Focus:**  
-- NLP
-- Computer Vision
+NLP driven Interview Conduct: Utilizing Natural Language Processing to simulate and conduct interviews, evaluating candidate responses and communication skills.
 
-**Project Status:**  
-In the planning phase, aiming to transform interview preparation and assessment.
+#### Features
 
-### KPMG (Klynveld Peat Marwick Goerdeler)
-**Data Analyst | June’23**
-- Advised a client on customer targeting
-- Analyzed data for high-value customer targeting
-- Developed dashboards for data communication
+- Computer Vision Monitoring: Employing computer vision tools to monitor candidate behavior, gestures, and engagement during interview simulations.
+- ATS Friendly Resume Builder: Crafting resumes optimized for Applicant Tracking Systems using AI algorithms.
+- Comprehensive Preparation Materials: Providing curated study materials and resources essential for interview readiness.
+- Performance Analytics: Analyzing interview performance metrics to offer insights and areas for improvement.
+- Interview Query Chatbot: Offering real-time assistance and clarification for interview-related doubts.
 
-**Skills:**  
-Analytical Dashboard Creation, Customer Segmentation, Data Analytics, Data Dashboards, Data Driven Presentations, Data Quality Analysis, Data Visualizations
+### Algorithmic Trading Model Development for BTC/USDT Crypto Market
 
-### Cognizant
-**Data Scientist | August’23**
-- Conducted exploratory data analysis
-- Prepared Python modules for ML engineering team
-- Presented findings through PowerPoint
+#### Objective
 
-**Skills:**  
-Communication, Data Analysis, Data Modeling, Data Visualization, Development, Evaluation, Machine Learning, Model Interpretation, Python, Quality Assurance
+Developing algorithmic trading models for the BTC/USDT cryptocurrency market, aiming to outperform benchmark returns.
 
-### British Airways
-**Data Analyst | November’23**
-- Analyzed customer review data
-- Built a predictive model for buying behavior
+#### Features
 
-**Skills:**  
-Data Manipulation, Data Science, Data Visualization, Machine Learning, PowerPoint, Python, Web Scraping
+- Model Development: Experienced in creating algorithmic trading models specifically tailored for the BTC/USDT Crypto Market, utilizing machine learning techniques to analyze market trends and optimize trading strategies.
+- Financial Analysis: Proficient in conducting comprehensive financial analysis, risk assessment, and back-testing to ensure the effectiveness and reliability of trading models, contributing to improved trading performance and profitability.
+- Collaborative Integration: Adept at collaborating with cross-functional teams to seamlessly integrate algorithmic trading models into trading platforms, ensuring successful implementation and alignment with business objectives.
 
-## SKILLS
-- Python (Framework: Flask) & Libraries (Pandas, Matplotlib, Seaborn)
-- Statistics, Mathematics
-- Scikit-Learn, TensorFlow, OpenCV
-- Machine Learning (Linear Models, Tree-based Models, Clustering Models, Association)
-- Deep Learning (ANN, RNN, Transfer Learning, Computer Vision)
-- NLP (Attention Based Model & Transfer Learning in NLP)
-- Power BI
-- Anomaly Detection & Time Series
-- Data-driven Decision Making, MongoDB
+## Virtual Internships
 
-## CERTIFICATES
-1. Data Science Masters from Physics-wallah (i-neuron)
-2. Kaggle certificates in Data Science Fields
-3. British Airways Data Science Completion Certificate
-4. KPMG AU Data Analytics Completion Certificate
-5. Cognizant Artificial Intelligence Completion Certificate
-6. Accenture North America Data Analytics and Visualization
+### KPMG, Data Analytics (Nov - Dec 2023)
+
+- Completed a simulation focused on advising a client on customer targeting with the Data, Analytic & Modeling team.
+- Assessed data quality and completeness in preparation for analysis.
+- Analyzed data to target high-value customers based on demographics and attributes.
+- Developed dashboards to communicate findings with visuals.
+  
+  **Skills:**
+  - Analytical Dashboard Creation, Customer Segmentation, Data Analytics, Data Dashboards, Data-Driven Presentations, Data Quality Analysis, Data Visualizations, Presentations
+
+### Cognizant, Data Scientist (Oct - Nov 2023)
+
+- Completed a job simulation focused on AI for Cognizant's Data Science team.
+- Conducted exploratory data analysis using Python and Google Colab for one of Cognizant technology clients, Gala Groceries.
+- Prepared a Python module that contains code to train a model and output the performance metrics for the Machine Learning engineering team.
+- Communicated findings and analysis in the form of a PowerPoint slide to present the results back to the business.
+  
+  **Skills:**
+  - Communication, Data Analysis, Data Modeling, Data Visualization, Development, Evaluation, Machine Learning, Machine Learning Engineering, Model Interpretation, Problem Statement, Python, Quality Assurance
+
+### British Airways, Data Analysis (Sep - Oct 2023)
+
+- Completed a simulation focusing on how data science is a critical component of British Airways' success.
+- Scraped and analyzed customer review data to uncover findings.
+- Built a predictive model to understand factors that influence buying behavior.
+  
+  **Skills:**
+  - Data Manipulation, Data Science, Data Visualization, Machine Learning, PowerPoint, Python, Web Scraping
+
+## Achievements & Certificates
+
+### Certificates
+
+- Data Science Masters from Physics Wallah (iNeuron).
+- Kaggle certificates in Data Science Fields.
+- British Airways Data Science Completion Certificate.
+- KPMG AU Data Analytics Completion Certificate.
+- Cognizant Artificial Intelligence Completion Certificate.
+- Accenture North America Data Analytics and Visualization.
+
+### Achievements
+
+- Top 10 in the open-source challenge in IITM Marghazi fest.
+- Cleared a round in IITK data-science Hackathon.
+
